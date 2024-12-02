@@ -8,14 +8,15 @@ EcoTrack aligns with the principles of sustainability by promoting eco-friendly 
 
 **EXPLANATION OF HOW OOP PRINCIPLES WERE APPLIED
 **
+
 **Encapsulation:**
 Data (e.g., user inputs, emission values) is stored within classes and accessed through methods to ensure secure and organized management.
+
 **Inheritance:**
 Specialized classes inherit common properties and methods from base classes.
+
 **Polymorphism:**
 Overridden methods allow the program to handle similar operations differently based on context.
+
 **Abstraction:**
 Unnecessary implementation details are hidden, providing a simplified interface.
-
-
-DETAILS OF THE CHOSEN SDG AND ITS INTEGRATION INTO THE PROJECT
